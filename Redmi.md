@@ -1,8 +1,8 @@
-![alt text](image.png)
+![alt text](image-16.png)
 
 ![alt text](image-1.png)
 
-![alt text](image-2.png)
+![alt text](image-17.png)
 
 ### Response stopped
 Отправлено пользователем Copilot:
